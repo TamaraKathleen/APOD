@@ -18,8 +18,7 @@ const styles = StyleSheet.create({
         position: "absolute",
     },
     textButton: {
-        fontWeight: "700",
-        fontFamily: "Roboto",
+        fontFamily: "Montserrat-ExtraBold",
         fontSize: 18,
         color: '#FFF',
     },

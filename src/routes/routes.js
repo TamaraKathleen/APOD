@@ -38,7 +38,7 @@ export default function Routes() {
                     },
                     headerTintColor: '#fff',
                     headerTitleStyle: {
-                        fontWeight: 'bold',
+                        fontFamily: "Montserrat-Black"
                     },
                     headerRight: () => (
                         <PopupMenu />
@@ -50,7 +50,7 @@ export default function Routes() {
                     },
                     headerTintColor: '#fff',
                     headerTitleStyle: {
-                        fontWeight: 'bold',
+                        fontFamily: "Montserrat-ExtraBold",
                     }
                 }} />
                 <Tab.Screen name="Settings" component={Settings} options={{
@@ -59,7 +59,7 @@ export default function Routes() {
                     },
                     headerTintColor: '#fff',
                     headerTitleStyle: {
-                        fontWeight: 'bold',
+                        fontFamily: "Montserrat-ExtraBold",
                     }
                 }} />
                 <Tab.Screen name="Original Size" component={OriginalSize} options={{
@@ -68,7 +68,7 @@ export default function Routes() {
                     },
                     headerTintColor: '#fff',
                     headerTitleStyle: {
-                        fontWeight: 'bold',
+                        fontFamily: "Montserrat-ExtraBold",
                     }
                 }} />
             </Tab.Navigator>

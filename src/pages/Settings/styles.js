@@ -13,6 +13,7 @@ const styles = StyleSheet.create({
     },
     title: {
         fontSize: 18,
+        fontFamily: "Montserrat-ExtraBold",
         fontWeight: "bold",
         color: "#FFF",
         padding: 16,
@@ -20,6 +21,7 @@ const styles = StyleSheet.create({
         left: 32
     },
     text: {
+        fontFamily: "Montserrat-Bold",
         marginTop: 5,
         color: "#FFF",
         fontSize: 18,

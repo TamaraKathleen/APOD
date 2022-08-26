@@ -101,10 +101,11 @@ const styles = StyleSheet.create({
         marginTop: 5
     },
     title: {
-        fontWeight: "bold",
+        fontFamily: "Montserrat-ExtraBold",
         fontSize: 20
     },
     text: {
+        fontFamily: "Montserrat-Bold",
         marginTop: 50,
         textAlign: 'center',
         color: "#FFF"

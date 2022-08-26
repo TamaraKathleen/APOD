@@ -8,6 +8,7 @@ const styles = StyleSheet.create({
         position: 'absolute',
     }, 
     text1:{
+        fontFamily: "Montserrat-ExtraBold",
         marginTop: 50,
         textAlign: 'center',
         color: "#FFF", 
@@ -15,6 +16,7 @@ const styles = StyleSheet.create({
         padding: 10
     }, 
     text2:{
+        fontFamily: "Montserrat-ExtraBold",
         marginTop: 50,
         textAlign: 'center',
         color: "#FFF",
