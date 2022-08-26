@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "585746447597",
+    "project_id": "apod-381f1",
+    "storage_bucket": "apod-381f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585746447597:android:dad989f1e2905ca1f220e4",
+        "android_client_info": {
+          "package_name": "apod.com.br"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585746447597-vjnu88k90t99h4ve2satcfim5qb3567c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhNZY3R3MT7YxDBCInpb8RdKZAEvwPFa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585746447597-vjnu88k90t99h4ve2satcfim5qb3567c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
